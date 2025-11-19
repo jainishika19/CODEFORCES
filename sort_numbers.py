@@ -1,0 +1,10 @@
+a,b,c=map(int,input().split())
+nums=[a,b,c]
+nums.sort()
+print(nums[0])
+print(nums[1])
+print(nums[2])
+print( )
+print(a)
+print(b)
+print(c)
